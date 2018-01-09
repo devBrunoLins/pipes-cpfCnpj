@@ -1,0 +1,26 @@
+{
+    "name": "cpfCnpj",
+    "version": "1.0.0",
+    "readmeFilename": "README.md",
+    "keywords": [
+        "pipe",
+        "filter",
+        "filtro"
+    ],
+    "description": "Pipe to transform string into format a cnpj or cpf",
+    "private": false,
+        "author": {
+            "name": "Bruno Lins da Silva",
+            "email": "blins44@gmail.com",
+            "npm": "https://www.npmjs.com/~brunolins",
+            "git": "https://github.com/devBrunoLins"
+        },
+        "repository": {
+            "type": "git",
+            "url": "git+https://github.com/devBrunoLins/pipes-cpfCnpj.git"
+        },
+        "license": "MIT",
+        "engines": {
+            "node": ">=0.8.0"
+        }
+}
